@@ -1,0 +1,18 @@
+{
+    "categories": {
+        "iPhone": 0,
+        "iPad": 1,
+        "Android App": 2,
+        "Other Google product or service": 3,
+        "iPad or iPhone App": 4,
+        "Other Apple product or service": 5,
+        "Apple": 6,
+        "Google": 7,
+        "Android": 8
+    },
+    "emotions": {
+        "Negative emotion": 0,
+        "Positive emotion": 1,
+        "No emotion toward brand or product": 2
+    }
+}
