@@ -1,5 +1,8 @@
 # Wysa_NLP_Engineer_Assignment
 
+### Working Prototype: https://emotion-and-brand-recognition.streamlit.app/
+
+---
 ### High Level Overview 
 ![image](https://github.com/user-attachments/assets/d2714408-33c8-4357-832c-a09dc433f591)
 
@@ -16,6 +19,7 @@
 
 4. **Include Geolocation Data**
 > If available, location data can be integrated to understand regional sentiment variations. This can be particularly useful for location-based brand sentiment analysis.
+
 ---
 ### Approach to Evaluate the Trained Model:
 **Confidence-based Analysis**
