@@ -4,7 +4,8 @@
 
 ---
 ### High Level Overview 
-![image](https://github.com/user-attachments/assets/d2714408-33c8-4357-832c-a09dc433f591)
+![image](https://github.com/user-attachments/assets/1abfeef8-d0fd-4481-b99e-3084f09141bf)
+
 
 ---
 ### Ways to Improve the Dataset Further:
